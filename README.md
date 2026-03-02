@@ -9,7 +9,6 @@ A modern, fully responsive personal portfolio website built with HTML, CSS, and 
 **Rahul Upadhyay** — Software Developer based in Hyderabad, India.
 
 - 📧 rahuulupadhyay22@gmail.com
-- 📞 +91 6300927946
 - 🔗 [LinkedIn](https://linkedin.com/in/rahul-upadhyay22)
 - 🐙 [GitHub](https://github.com/rahulupadhyay22)
 
